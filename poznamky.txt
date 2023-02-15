@@ -1,0 +1,6 @@
+# ukoly pro lekci č.3 - programovaní v python
+
+1. Vypiš do terminálu:
+# 1. Dobrý den.
+# 2. Své jméno.
+# 3. Své přijmení.
